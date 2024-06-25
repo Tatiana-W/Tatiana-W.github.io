@@ -55,7 +55,7 @@ export default function Home3() {
               <Spacing lg='0' md='40'/>
             </Section>
             <Section className="col-lg-6">
-              <img src="/images/yacht_stats.png" alt="About" />
+              <img src="/images/ycc_logo.png" alt="About" />
             </Section>
           </Section>
         </Section>
